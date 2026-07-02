@@ -1,2 +1,4 @@
 # delta-demo
-This is use of Git & GitHub
+This is demo for Git & GitHub Account 
+<br>
+Author - Hemant Kumar
